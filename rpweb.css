@@ -27,3 +27,7 @@ html{
     background-color: #1b1b1b;
     border-color: #1b1b1b;
 }
+
+.centered_text{
+    text-align: center;
+}
